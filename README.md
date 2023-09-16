@@ -14,4 +14,5 @@ A simple and intuitive GUI application to manage your daily tasks, goals, and no
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/BryanAviles-Lopez/Simple_calendar/tree/main
+   git clone https://github.com/BryanAviles-Lopez/Simple_calendar.git
+
