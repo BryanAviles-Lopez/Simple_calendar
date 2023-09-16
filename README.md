@@ -16,3 +16,8 @@ A simple and intuitive GUI application to manage your daily tasks, goals, and no
    ```bash
    git clone https://github.com/BryanAviles-Lopez/Simple_calendar.git
 
+## Running it
+```
+cd Simple_calendar
+python calendar_app_17.py
+```
