@@ -19,5 +19,5 @@ A simple and intuitive GUI application to manage your daily tasks, goals, and no
 ## Running it
 ```
 cd Simple_calendar
-python calendar_app_22.py
+python calendar_app_27.py
 ```
