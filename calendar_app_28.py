@@ -204,6 +204,7 @@ class SimpleCalendar(tk.Tk):
                 self.goals = data['goals']
                 self.tasks = data['tasks']
                 self.general = data['general']
+                self.quotes = data['quotes']
 
                 # Populate the textboxes with the saved content
                 self.goals_list.delete("1.0", tk.END)
