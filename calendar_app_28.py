@@ -135,7 +135,7 @@ class SimpleCalendar(tk.Tk):
 
         self.quotes_label = ttk.Label(self.right_frame, text = "Motivational Quotes:")
         self.quotes_label.pack(anchor="w")
-        self.quotes_list = tk.Text(self.right_frame, height=10, width=30)
+        self.quotes_list = tk.Text(self.right_frame, height=10, width=35)
         self.quotes_list.pack(fill=tk.BOTH, pady=5)
 
         self.notes = {}
